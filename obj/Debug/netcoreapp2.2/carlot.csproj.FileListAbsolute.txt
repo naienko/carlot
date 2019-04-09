@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\carlot\obj\Debug\netcoreapp2.2\carlot.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\carlot\obj\Debug\netcoreapp2.2\carlot.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\carlot\obj\Debug\netcoreapp2.2\carlot.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\carlot\obj\Debug\netcoreapp2.2\carlot.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\carlot\bin\Debug\netcoreapp2.2\carlot.deps.json
+C:\Users\naienko\workspace\csharp\exercises\carlot\bin\Debug\netcoreapp2.2\carlot.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\carlot\bin\Debug\netcoreapp2.2\carlot.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\carlot\bin\Debug\netcoreapp2.2\carlot.dll
+C:\Users\naienko\workspace\csharp\exercises\carlot\bin\Debug\netcoreapp2.2\carlot.pdb
+C:\Users\naienko\workspace\csharp\exercises\carlot\obj\Debug\netcoreapp2.2\carlot.dll
+C:\Users\naienko\workspace\csharp\exercises\carlot\obj\Debug\netcoreapp2.2\carlot.pdb
